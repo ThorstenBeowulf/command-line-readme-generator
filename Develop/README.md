@@ -1,45 +1,67 @@
-# testtitle
+# SteveWorld
+  ![image](https://img.shields.io/badge/license-GNU AGPLv3-blue.svg)
+
   ---
-## Description
 
-test description
----
-## Table Of Contents
----
-[Installation](#installation)
+  ## Description
 
-[Usage](#usage)
+  Steve's mega project. It can sing, it can dance.
 
-[License](#license)
+  ---
 
-[Contributing](#contributing)
+  ## Table Of Contents
 
-[Tests](#tests)
+  ---
 
-[Questions](#questions)
+  [Installation](#installation)
 
----
-## Installation
+  [Usage](#usage)
 
-test installation
----
-## Usage
+  [License](#license)
 
-test use
----
-## License
+  [Contributing](#contributing)
 
----
-## Contributing
+  [Tests](#tests)
 
-test contribution
----
-## Tests
+  [Questions](#questions)
 
-test tests
----
-## Questions
+  ---
 
-If you have any questions about this project you can contact me:
-- on git test git
-- email test email
+  ## Installation
+
+  Bang head on keyboard three times.
+
+  ---
+
+  ## Usage
+
+  Use it at home,at work, in the shower, nothing is off-limits!
+
+  ---
+
+  ## License
+
+  Usage of this repository is under a GNU AGPLv3 license
+
+  ---
+
+  ## Contributing
+
+  Be nice and open an issue then make a pull request. Thaanks!
+
+  ---
+
+  ## Tests
+
+  The beep test, iq test, etc.
+
+  ---
+
+  ## Questions
+
+  If you have any questions about this project you can contact me:
+  - on git github.com/steveneven
+  - email steveneven@gmail.com
+
+
+  
