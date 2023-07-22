@@ -1,11 +1,11 @@
 # SteveWorld
-  ![image](https://img.shields.io/badge/license-GNU AGPLv3-blue.svg)
+  ![image](https://img.shields.io/badge/license-Mozilla_Public_2.0-blue.svg)
 
   ---
 
   ## Description
 
-  Steve's mega project. It can sing, it can dance.
+  Steve's mega project.
 
   ---
 
@@ -29,31 +29,31 @@
 
   ## Installation
 
-  Bang head on keyboard three times.
+  node.js, npm
 
   ---
 
   ## Usage
 
-  Use it at home,at work, in the shower, nothing is off-limits!
+  Every way
 
   ---
 
   ## License
 
-  Usage of this repository is under a GNU AGPLv3 license
+  Usage of this repository is under a Mozilla Public 2.0 license
 
   ---
 
   ## Contributing
 
-  Be nice and open an issue then make a pull request. Thaanks!
+  Be kind, re-wind.
 
   ---
 
   ## Tests
 
-  The beep test, iq test, etc.
+  tests, tests, tests
 
   ---
 

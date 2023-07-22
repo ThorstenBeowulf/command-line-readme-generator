@@ -8,12 +8,12 @@ const userQuestions = [
   {
     type: 'input',
     name: 'title',
-    message: 'What title would you like for this project?',
+    message: 'What would you like this project title to be?',
   },
   {
     type: 'input',
     name: 'description',
-    message: 'What description would you like for this project?',
+    message: 'What description would you like to give for this project?',
   },
   {
     type: 'input',
@@ -23,7 +23,7 @@ const userQuestions = [
   {
     type: 'input',
     name: 'usage',
-    message: 'How can this project be used?',
+    message: 'How can someone use this project?',
   },
 
   {
@@ -66,7 +66,6 @@ function writeToFile(data) {
 function init() {
   inquirer.prompt(userQuestions)
     .then((data) => {
-      
       writeToFile(data);
     })
 }

@@ -4,10 +4,10 @@ function renderLicenseBadge(license) {
   if (!license) {
     return '';
   }
-
+  license = license.replace(/\s/g, "_");
   return `https://img.shields.io/badge/license-${license}-blue.svg`;
 }
-// `https://img.shields.io/badge/license-Apache2.0-blue.svg`
+
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
 // function renderLicenseLink(license) {
@@ -24,7 +24,6 @@ function renderLicenseSection(license) {
     return '';
   }
   return `Usage of this repository is under a ${license} license`;
-
 }
 
 // TODO: Create a function to generate markdown for README
@@ -43,7 +42,6 @@ function generateMarkdown(data) {
 
   ## Table Of Contents
 
-  ---
 
   [Installation](#installation)
 
@@ -100,5 +98,3 @@ function generateMarkdown(data) {
 }
 
 module.exports = generateMarkdown;
-
-// ${data.license}
