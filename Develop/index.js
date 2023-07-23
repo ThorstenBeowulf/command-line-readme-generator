@@ -1,9 +1,9 @@
-// TODO: Include packages needed for this application
+// Included packages
 const generateMarkdown = require('./utils/generateMarkdown.js');
 const fs = require('fs');
 const inquirer = require('inquirer');
 
-// TODO: Create an array of questions for user input
+// Questions for user input
 const userQuestions = [
   {
     type: 'input',
@@ -50,11 +50,11 @@ const userQuestions = [
     type: 'list',
     name: 'license',
     message: 'What license would you like to use for your project?',
-    choices: ['MIT', 'GNU AGPLv3', 'Mozilla Public 2.0', 'Apache 2.0']
+    choices: ['MIT', 'AGPL 3.0', 'MPL 2.0', 'Apache 2.0']
   }
   ]
 
-// TODO: Create a function to write README file
+// Generates and writes README file
 function writeToFile(data) {
   const renderFile = generateMarkdown(data);
   fs.writeFile('README.md', renderFile, (err) =>
@@ -62,7 +62,7 @@ function writeToFile(data) {
   );
 }
 
-// TODO: Create a function to initialize app
+// Calls prompt to display questions and get user input then passes the result asynchronously to writeToFile 
 function init() {
   inquirer.prompt(userQuestions)
     .then((data) => {

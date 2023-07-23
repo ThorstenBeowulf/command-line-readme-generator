@@ -1,5 +1,4 @@
-// TODO: Create a function that returns a license badge based on which license is passed in
-// If there is no license, return an empty string
+// Gets badge from shields.io, if there is no license, return an empty string
 function renderLicenseBadge(license) {
   if (!license) {
     return '';
@@ -8,17 +7,16 @@ function renderLicenseBadge(license) {
   return `https://img.shields.io/badge/license-${license}-blue.svg`;
 }
 
-// TODO: Create a function that returns the license link
-// If there is no license, return an empty string
-// function renderLicenseLink(license) {
-//   if (!license) {
-//     return '';
-//   }
+// Creates a link to license info, if there is no license, return an empty string
+function renderLicenseLink(license) {
+  if (!license) {
+    return '';
+  }
+  license = license.replace(/\s/g, "-").toLowerCase();
+  return `https://choosealicense.com/licenses/${license}/`
+}
 
-// }
-
-// TODO: Create a function that returns the license section of README
-// If there is no license, return an empty string
+// Creates the license section, if there is no license, return an empty string
 function renderLicenseSection(license) {
   if (!license) {
     return '';
@@ -26,8 +24,7 @@ function renderLicenseSection(license) {
   return `Usage of this repository is under a ${license} license`;
 }
 
-// TODO: Create a function to generate markdown for README
-//Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
+// Generates the markdown for README where data is an object containing user answers
 function generateMarkdown(data) {
   return `# ${data.title}
   ![image](${renderLicenseBadge(data.license)})
@@ -71,7 +68,7 @@ function generateMarkdown(data) {
 
   ## License
 
-  ${renderLicenseSection(data.license)}
+  [${renderLicenseSection(data.license)}](${renderLicenseLink(data.license)})
 
   ---
 
@@ -90,8 +87,8 @@ function generateMarkdown(data) {
   ## Questions
 
   If you have any questions about this project you can contact me:
-  - on git ${data.git}
-  - email ${data.email}
+  - on github: ${data.git}
+  - by email: ${data.email}
 
 
   `;

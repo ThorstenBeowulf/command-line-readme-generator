@@ -1,17 +1,16 @@
-# SteveWorld
-  ![image](https://img.shields.io/badge/license-Mozilla_Public_2.0-blue.svg)
+# New Project
+  ![image](https://img.shields.io/badge/license-MPL_2.0-blue.svg)
 
   ---
 
   ## Description
 
-  Steve's mega project.
+  Description 
 
   ---
 
   ## Table Of Contents
 
-  ---
 
   [Installation](#installation)
 
@@ -29,39 +28,39 @@
 
   ## Installation
 
-  node.js, npm
+  Install node.js, npm, inquirer and fs
 
   ---
 
   ## Usage
 
-  Every way
+  Run the index file in node with ``` node index.js ```
 
   ---
 
   ## License
 
-  Usage of this repository is under a Mozilla Public 2.0 license
-
+  [Usage of this repository is under a MPL 2.0 license](https://choosealicense.com/licenses/mpl-2.0/)
+  
   ---
 
   ## Contributing
 
-  Be kind, re-wind.
+  standard community guidelines
 
   ---
 
   ## Tests
 
-  tests, tests, tests
+  some tests
 
   ---
 
   ## Questions
 
   If you have any questions about this project you can contact me:
-  - on git github.com/steveneven
-  - email steveneven@gmail.com
+  - on github github.com/steve
+  - email steve@gmail.com
 
 
   
