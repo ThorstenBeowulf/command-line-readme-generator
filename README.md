@@ -14,7 +14,7 @@ A simple app to generate a readme file in markdown. When run in the command line
 ## Demonstration
 
 Here is a video walkthrough of the app:
-https://watch.screencastify.com/v/RFz26r9PLTwmXf3zY5an
+https://drive.google.com/file/d/1KCiQTruCcNPKzN9T7_P_16mbazeIg_go/view
 
 Here is a screenshot of sample output:
 ![image](https://github.com/ThorstenBeowulf/command-line-readme-generator/assets/90459268/2cf9abf3-dccb-454f-85da-c6aeb59d5575)
