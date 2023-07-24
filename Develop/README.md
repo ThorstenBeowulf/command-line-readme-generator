@@ -1,11 +1,11 @@
-# New Project
-  ![image](https://img.shields.io/badge/license-MPL_2.0-blue.svg)
+# Test Title
+  ![image](https://img.shields.io/badge/license-AGPL_3.0-blue.svg)
 
   ---
 
   ## Description
 
-  Description 
+  Test description
 
   ---
 
@@ -28,39 +28,39 @@
 
   ## Installation
 
-  Install node.js, npm, inquirer and fs
+  Installation instructions
 
   ---
 
   ## Usage
 
-  Run the index file in node with ``` node index.js ```
+  Usage and applications such as ``` node index.js ``` to run.
 
   ---
 
   ## License
 
-  [Usage of this repository is under a MPL 2.0 license](https://choosealicense.com/licenses/mpl-2.0/)
-  
+  [Usage of this repository is under a AGPL 3.0 license](https://choosealicense.com/licenses/agpl-3.0/)
+
   ---
 
   ## Contributing
 
-  standard community guidelines
+  Community guidelines
 
   ---
 
   ## Tests
 
-  some tests
+  List tests
 
   ---
 
   ## Questions
 
   If you have any questions about this project you can contact me:
-  - on github github.com/steve
-  - email steve@gmail.com
+  - on github: github.com/thorsten
+  - by email: thorsten@gmail.com
 
 
   
