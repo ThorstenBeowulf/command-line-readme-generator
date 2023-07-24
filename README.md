@@ -2,21 +2,23 @@
 
 ## Description
 
-This app generates a readme file in markdown format from a series of question prompts. 
+A simple app to generate a readme file in markdown. When run in the command line, a series of prompts are asked which are then used to fill out a readme template and then create the file in the local directory.
 
 ## How to use
 
 - Run ``` node index.js ``` in a CLI
-- You will be asked questions one by one
-- When finished, a markdown file will be created with the responses you gave
+- Answer the text prompts
+- Select a license
+- When finished, a README.md file will be created in the same folder as index.js with the responses you gave
 
 ## Demonstration
 
 Here is a video walkthrough of the app:
-link to demo video
+![video](https://watch.screencastify.com/v/RFz26r9PLTwmXf3zY5an)
 
 Here is a screenshot of sample output:
-insert image
+![image](https://github.com/ThorstenBeowulf/command-line-readme-generator/assets/90459268/2cf9abf3-dccb-454f-85da-c6aeb59d5575)
+
 
 ## Licence
 
