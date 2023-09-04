@@ -16,7 +16,7 @@
   
 - [Questions](#-questions)
     
-## 🖥️ Installation 
+## 💻 Installation 
 
 Deployed on Heroku at 
 https://takesickies-40fabe44386a.herokuapp.com/
