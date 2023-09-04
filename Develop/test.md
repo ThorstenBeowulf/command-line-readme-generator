@@ -1,18 +1,18 @@
 ## 📓Table of Contents
 
-- [Installation](#%EF%B8%8Finstallation)
+- [Installation](#%ef%b8%8finstallation)
   
 - [Usage](#usage)
   
-- [Screenshot](#EF%B8%8Fscreenshot)
+- [Screenshot](#ef%b8%8fscreenshot)
   
 - [Video](#video)
   
-- [License](#EF%B8%8Flicense)
+- [License](#ef%b8%8flicense)
   
 - [Contributing](#contributing)
   
-- [Tests](#EF%B8%8tests)
+- [Tests](#ef%b8%8tests)
   
 - [Questions](#questions)
     
