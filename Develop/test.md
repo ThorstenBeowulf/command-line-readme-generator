@@ -1,20 +1,20 @@
 ## 📓 Table of Contents
 
-- [Installation](#-installation)
+- [Installation](#installation)
   
-- [Usage](#-usage)
+- [Usage](#usage)
   
-- [Screenshot](#-screenshot)
+- [Screenshot](#screenshot)
   
-- [Video](#-video)
+- [Video](#video)
   
-- [License](#-license)
+- [License](#license)
   
-- [Contributing](#-contributing)
+- [Contributing](#contributing)
   
-- [Tests](#-tests)
+- [Tests](#tests)
   
-- [Questions](#-questions)
+- [Questions](#questions)
     
 ## 💻 Installation 
 
