@@ -16,32 +16,32 @@
   
 - [Questions](#questions)
     
-## 🖥️Installation 
+## 🖥️ Installation 
 
 Deployed on Heroku at 
 https://takesickies-40fabe44386a.herokuapp.com/
   
-## 💬Usage 
+## 💬 Usage 
 
 For illegal purposes only
 
-## 🖼️Screenshot
+## 🖼️ Screenshot
 
 Take a sickie homepage
 ![Homepage](./assets/Take%20a%20sickie.jpg.png)
 Patient Signup and login 
 ![Patient-Signup](./assets/Patient_Signup.png)
 
-## 📹Video
+## 📹 Video
 
 Shows a new patient signing up 
 ![Gif](./assets/Sickie.gif)
 
-## ⚖️License 
+## ⚖️ License 
 
 This project is licensed under MIT
   
-## 🤝Contributing 
+## 🤝 Contributing 
 
 Brian Trang,
 Jarrod Blanning,
@@ -50,11 +50,11 @@ Victor Chan,
 Hailin Ruan
 With thanks to USYD
   
-## 🛠️Tests
+## 🛠️ Tests
 
 N/A
  
-## ❔Questions
+## ❔ Questions
 
 If you have any questions about this project, please contact me directly at Brian.trang9@gmail.com. Feel free to view more of our projects at 
 https://github.com/MakeRedundant
